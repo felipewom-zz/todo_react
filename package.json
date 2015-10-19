@@ -1,0 +1,19 @@
+{
+  "name": "todo_react",
+  "version": "1.0.0",
+  "description": "Todo with React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipewom/todo_react.git"
+  },
+  "author": "Felipe Moura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipewom/todo_react/issues"
+  },
+  "homepage": "https://github.com/felipewom/todo_react#readme"
+}
